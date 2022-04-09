@@ -10,7 +10,7 @@
   "dependencies": {
     "@zeit/next-css": "^1.0.1",
     "match-sorter": "^4.1.0",
-    "moment": "^2.27.0",
+    "moment": "^2.29.2",
     "namor": "^2.0.2",
     "next": "9.3.5",
     "react": "16.13.1",
